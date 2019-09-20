@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="height">身高：</string>
+    <string name="weight">体重：</string>
+    <string name="score">BMI值：</string>
+    <string name="result">结果：</string>
+    <string name="calculate">计算</string>
+    <string name="centimeter">cm</string>
+    <string name="kilogram">kg</string>
+</resources>
